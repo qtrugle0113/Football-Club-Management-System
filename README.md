@@ -1,5 +1,6 @@
 # Football Club Management System 
 ## Link: https://quangtrungleclub.x10.mx (It's safe^^)
+** Report link: https://drive.google.com/file/d/1z1CSW1cJKyZ3nOd_OJ7qwt5H-8GY9tsy ** 
 ## ERD:
 <img width="732" alt="Screen Shot 2023-01-31 at 10 28 10 PM" src="https://user-images.githubusercontent.com/86500497/215773328-e9623df6-e44c-4a1b-a445-7f26f1214996.png">
 
